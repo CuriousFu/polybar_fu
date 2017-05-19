@@ -81,7 +81,7 @@ font-4 = B Nazanin:pixelsize=17;2
 modules-left = i3
 modules-center =
 ;modules-right =  pkg lanspeed wifispeed battery date1 date
-modules-right = backlight volume github pkg wlan vpncheck battery date weather powermenu
+modules-right = backlight volume github pkg wlan vpncheck battery date powermenu
 ;modules-right = backlight volume pkg wlan vpncheck battery date powermenu
 
 
@@ -139,7 +139,7 @@ font-3 = FontAwesome:pixelsize=14;2
 modules-left = i3 
 ;modules-left = volume demo
 modules-center = 
-modules-right =  lanspeed temperature filesystem-slash filesystem-home cpu memory pkg date volume powermenu
+modules-right =  lanspeed temperature filesystem-slash filesystem-home cpu memory date volume powermenu
 ;modules-right = temperature filesystem-slash filesystem-home cpu memory
 
 tray-position = right
